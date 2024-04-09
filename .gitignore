@@ -1,0 +1,5 @@
+seriestemporales-env
+*.ipynb
+.vscode
+*.csv
+*.xlsx
